@@ -1,0 +1,5 @@
+spring.datasource:
+  url: jdbc:mysql://localhost:3306/nl_staging?characterEncoding=utf8&autoReconnect=true&useUnicode=true&rewriteBatchedStatements=true
+  username: root
+  password:
+  driver-class-name: com.mysql.jdbc.Driver
